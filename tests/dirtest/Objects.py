@@ -1,0 +1,3 @@
+
+def p():
+	print("YES")

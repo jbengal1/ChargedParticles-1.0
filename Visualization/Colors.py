@@ -1,0 +1,15 @@
+WHITE = [255, 255, 255, 255]
+GREEN = [0, 255, 0, 255]
+RED = [200, 0, 0, 255]
+BLUE = [0, 0, 128, 255]
+BRIGHT_BLUE = [0, 120, 220, 255]
+BRIGHT_GRAY = [120, 120, 120, 255]
+
+PALLET = [
+    WHITE,
+    GREEN,
+    RED,
+    BLUE,
+    BRIGHT_BLUE,
+    BRIGHT_GRAY
+]
